@@ -11,7 +11,3 @@ class Solution(object):
             dic[num] = 0
 
         return False
-
-
-# test
-# test3
